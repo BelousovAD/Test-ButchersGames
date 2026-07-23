@@ -1,0 +1,16 @@
+{
+    "name": "Movement",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8db3700b66686174b8e1a09015a879ed"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
